@@ -53,6 +53,13 @@ http://ip:8000
 
 下载 selenium webdriver 对应的浏览器驱动放在 driver 目录即可
 
-截图
+## 截图
 AutoLink Web IDE 编辑模式截图欣赏
 
+![index](./auto/www/static/img/index.png)
+
+![dashboard](./docs/img/dashboard.png)
+
+![help](./docs/img/keyword_help.png)
+
+![keyword](./docs/img/double_keyword.png)
